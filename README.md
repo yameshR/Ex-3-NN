@@ -106,7 +106,7 @@ predict(w1,w2,test)
 ```
 <H3>Output:</H3>
 
-![image](https://github.com/karthika28112004/Ex-3-NN/assets/128035087/0e2671b7-eca5-4af1-8ce7-8aaf48332985)
+
 
 
 
